@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>casiojapi website</title>
+    <link>https://casiojapi.xyz/</link>
+    <description>Recent content on casiojapi website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 06 Feb 2023 15:22:08 -0300</lastBuildDate><atom:link href="https://casiojapi.xyz/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Image Gallery</title>
+      <link>https://casiojapi.xyz/foto/</link>
+      <pubDate>Mon, 27 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://casiojapi.xyz/foto/</guid>
+      <description>mi proyecto de foto, mint jams. Aca algunas fotos. Mas en instagram: @mint_jams.</description>
+      <content>
+        &lt;p&gt;mi proyecto de foto, mint jams. Aca algunas fotos. Mas en instagram: &lt;a target=&#34;_blank&#34; href=&#34;https://instagram.com/mint_jams&#34;&gt;@mint_jams&lt;/a&gt;.&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>hola :)</title>
+      <link>https://casiojapi.xyz/posts/hola/</link>
+      <pubDate>Mon, 06 Feb 2023 15:22:08 -0300</pubDate>
+      
+      <guid>https://casiojapi.xyz/posts/hola/</guid>
+      <description>La idea de la sección “blog” de esta página es escribir un poco sobre herramientas y conceptos que podemos usar para poner en práctica la filosofía del gordo monedita. Los gordos odiamos a los bancos, a los super estados que controlan todo lo que haces con tu platita, el KYC innecesario, las medidas AML, la WEF y el “you will own nothing and be happy”.
+¿Qué hacemos en el día a día para frenar esto o hacer un “opt-out”?</description>
+      <content>&lt;p&gt;La idea de la sección “blog” de esta página es escribir un poco sobre herramientas y conceptos que podemos usar para poner en práctica la filosofía del gordo monedita. Los gordos odiamos a los bancos, a los super estados que controlan todo lo que haces con tu platita, el &lt;a href=&#34;https://en.wikipedia.org/wiki/Know_your_customer&#34;&gt;KYC&lt;/a&gt; innecesario, las medidas &lt;a href=&#34;https://en.wikipedia.org/wiki/Money_laundering#Combating&#34;&gt;AML&lt;/a&gt;, la &lt;a href=&#34;https://en.wikipedia.org/wiki/World_Economic_Forum&#34;&gt;WEF&lt;/a&gt; y el &lt;a href=&#34;https://knowyourmeme.com/memes/youll-own-nothing-and-be-happy&#34;&gt;&lt;em&gt;“you will own nothing and be happy”&lt;/em&gt;&lt;/a&gt;.&lt;br&gt;
+&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;¿Qué hacemos en el día a día para frenar esto o hacer un &lt;a href=&#34;https://en.wikipedia.org/wiki/Opt-out&#34;&gt;“opt-out”&lt;/a&gt;?&lt;/strong&gt;&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;Bueno, la idea de la sección blog es esa… Buscar formas y herramientas prácticas para votar en contra de todo esto con acción.&lt;/p&gt;
+&lt;p&gt;Quiero evangelizar que no nos quedemos en el camino fácil de “compré btc” y listo. Hay muchas cosas que podemos hacer hoy para salir de lo que no nos gusta, es un laburo y un esfuerzo constante. Más que nada porque la alternativa es siempre muy cómoda.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;¿Cuántos usamos mercadopago todos los días? ¿Qué tan distinto es a una &lt;a href=&#34;https://en.wikipedia.org/wiki/Central_bank_digital_currency&#34;&gt;CBDC&lt;/a&gt;?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;No es por atacar, yo también lo uso (si, ya se que es un ejemplo pelotudo. Pero creo que ilustra lo que queria decir). Es una autocrítica, y quiero usar este medio para encontrar y meterme más en qué alternativas podemos usar para poner en práctica lo que pensamos y hasta profesamos.&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;Nada mas. Es muy idealista, si. Pero bueno, si no hacemos nada nos van a recontra coger a todos.&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;Saludos - pronto cosas mas prácticas, no tan humeantes y salvatteras como esto.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://twitter.com/casiojapi&#34;&gt;&lt;strong&gt;casiojapi&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>monero</title>
+      <link>https://casiojapi.xyz/monero/</link>
+      <pubDate>Mon, 06 Feb 2023 11:44:38 -0300</pubDate>
+      
+      <guid>https://casiojapi.xyz/monero/</guid>
+      <description>Wallet monero gui (desktop) - https://www.getmonero.org/downloads/ cake wallet (mobile) - https://cakewallet.com/ Miner XMRIG - https://xmrig.com/ Mining Pools moneroocean - https://moneroocean.stream/ p2pool - https://p2pool.io/#help Bridges fixedfloat - https://fixedfloat.com/ trocador - https://trocador.app/ Data relevante para el gordo low-tech getmonero (sobre todo el get started) - https://www.getmonero.org/ subreddit de mining en monero - https://www.reddit.com/r/MoneroMining/ subreddit de xmrig android - https://www.reddit.com/r/XMRigForAndroid/ podcast monero talk - https://www.youtube.com/@MoneroTalk un blog de noticias de monero - https://www.themoneromoon.com/ </description>
+      <content>&lt;h2 id=&#34;wallet&#34;&gt;Wallet&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;monero gui (desktop) - &lt;a href=&#34;https://www.getmonero.org/downloads/&#34;&gt;https://www.getmonero.org/downloads/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;cake wallet (mobile) - &lt;a href=&#34;https://cakewallet.com/&#34;&gt;https://cakewallet.com/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;miner&#34;&gt;Miner&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;XMRIG - &lt;a href=&#34;https://xmrig.com/&#34;&gt;https://xmrig.com/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;mining-pools&#34;&gt;Mining Pools&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;moneroocean - &lt;a href=&#34;https://moneroocean.stream/&#34;&gt;https://moneroocean.stream/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;p2pool - &lt;a href=&#34;https://p2pool.io/#help&#34;&gt;https://p2pool.io/#help&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;bridges&#34;&gt;Bridges&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;fixedfloat - &lt;a href=&#34;https://fixedfloat.com/&#34;&gt;https://fixedfloat.com/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;trocador - &lt;a href=&#34;https://trocador.app/&#34;&gt;https://trocador.app/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;data-relevante-para-el-gordo-low-tech&#34;&gt;Data relevante para el gordo low-tech&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;getmonero (sobre todo el get started) - &lt;a href=&#34;https://www.getmonero.org/&#34;&gt;https://www.getmonero.org/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;subreddit de mining en monero - &lt;a href=&#34;https://www.reddit.com/r/MoneroMining/&#34;&gt;https://www.reddit.com/r/MoneroMining/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;subreddit de xmrig android - &lt;a href=&#34;https://www.reddit.com/r/XMRigForAndroid/&#34;&gt;https://www.reddit.com/r/XMRigForAndroid/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;podcast monero talk - &lt;a href=&#34;https://www.youtube.com/@MoneroTalk&#34;&gt;https://www.youtube.com/@MoneroTalk&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;un blog de noticias de monero - &lt;a href=&#34;https://www.themoneromoon.com/&#34;&gt;https://www.themoneromoon.com/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>projects</title>
+      <link>https://casiojapi.xyz/projects/</link>
+      <pubDate>Mon, 06 Feb 2023 10:37:03 -0300</pubDate>
+      
+      <guid>https://casiojapi.xyz/projects/</guid>
+      <description>software c-synth - a command line synthesizer written in C: github repo.
+vector graphica - a scene generator and renderer that may be used for creating artworks for vaporwave related content: github repo.
+music bokki - lofi/ambient/vaporwave music project: spotify.
+viieja - deprecated lofi music project: spotify.
+videogames downweller - a downwell clone but with plazos fijos: play it.
+ok bumper - a free fall game that lets you press space to generate a random vector and survive: play it.</description>
+      <content>
+&lt;div id=&#34;contenter&#34;&gt;
+    &lt;h2 id=&#34;projects&#34;&gt;software&lt;/h2&gt;
+    &lt;div id=&#34;subcontent&#34;&gt;
+        &lt;p&gt;&lt;a href=&#34;https://github.com/casiojapi/c-synth&#34;&gt;c-synth&lt;/a&gt; - a command line synthesizer written in C: &lt;a href=&#34;https://github.com/casiojapi/c-synth&#34;&gt;github repo&lt;/a&gt;.&lt;/p&gt;
+        &lt;p&gt;&lt;a href=&#34;https://github.com/casiojapi/vector-graphica&#34;&gt;vector graphica&lt;/a&gt; - a scene generator and renderer that may be used for creating artworks for vaporwave related content: &lt;a href=&#34;https://github.com/casiojapi/c-graphica&#34;&gt;github repo&lt;/a&gt;.&lt;/p&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div id=&#34;contenter&#34;&gt;
+    &lt;h2 id=&#34;projects&#34;&gt;music&lt;/h2&gt;
+    &lt;div id=&#34;subcontent&#34;&gt;
+        &lt;p&gt;&lt;a href=&#34;http://bokki.maximosantoro.com&#34;&gt;bokki&lt;/a&gt; - lofi/ambient/vaporwave music project: &lt;a href=&#34;https://open.spotify.com/artist/1gmAvUNIqrPSGklxtoj514&#34;&gt;spotify&lt;/a&gt;.&lt;/p&gt;
+        &lt;p&gt;&lt;a href=&#34;https://open.spotify.com/artist/1eGOtTZXXm0tSwvvPL5lXC&#34;&gt;viieja&lt;/a&gt; - deprecated lofi music project: &lt;a href=&#34;https://open.spotify.com/artist/1eGOtTZXXm0tSwvvPL5lXC&#34;&gt;spotify&lt;/a&gt;.&lt;/p&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div id=&#34;contenter&#34;&gt;
+&lt;h2 id=&#34;projects&#34;&gt;videogames&lt;/h2&gt;
+    &lt;div id=&#34;subcontent&#34;&gt;
+        &lt;p&gt;&lt;a href=&#34;https://maximop2p.itch.io/downweller-ahorra-en-plazo-fijo&#34;&gt;downweller&lt;/a&gt; - a downwell clone but with plazos fijos: &lt;a href=&#34;https://maximop2p.itch.io/downweller-ahorra-en-plazo-fijo&#34;&gt;play it&lt;/a&gt;.&lt;/p&gt;
+        &lt;p&gt;&lt;a href=&#34;https://maximop2p.itch.io/ok-boomer-bumper&#34;&gt;ok bumper&lt;/a&gt; - a free fall game that lets you press space to generate a random vector and survive: &lt;a href=&#34;https://maximop2p.itch.io/ok-boomer-bumper&#34;&gt;play it&lt;/a&gt;.&lt;/p&gt;
+        &lt;p&gt;&lt;a href=&#34;https://maximop2p.itch.io/super-speaker&#34;&gt;super-speaker&lt;/a&gt; - dodge the speaker&#39;s deadly frequencies: &lt;a href=&#34;https://maximop2p.itch.io/super-speaker&#34;&gt;play it&lt;/a&gt;.&lt;/p&gt;
+        &lt;p&gt;&lt;a href=&#34;https://maximop2p.itch.io/como-un-pong-pero-podes-cambiar-la-gravedad-con-las-flechitas&#34;&gt;gravity breaker&lt;/a&gt; - a brickbreaker that lets you controll gravity: &lt;a href=&#34;https://maximop2p.itch.io/como-un-pong-pero-podes-cambiar-la-gravedad-con-las-flechitas&#34;&gt;play it&lt;/a&gt;.&lt;/p&gt;
+        &lt;p&gt;&lt;a href=&#34;https://maximop2p.itch.io/inside-breakout&#34;&gt;inside breakout&lt;/a&gt; - a super weird platformer with a long intro: &lt;a href=&#34;https://maximop2p.itch.io/inside-breakout&#34;&gt;play it&lt;/a&gt;.&lt;/p&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+    
+&lt;div id=&#34;contenter&#34;&gt;
+&lt;h2 id=&#34;projects&#34;&gt;random/misc&lt;/h2&gt;
+    &lt;div id=&#34;subcontent&#34;&gt;
+        &lt;!-- &lt;p&gt;&lt;a href=&#34;https://mintjams.maximosantoro.com/&#34;&gt;mint jams&lt;/a&gt; - photography project: &lt;a href=&#34;https://www.instagram.com/mint_jams/&#34;&gt;instagram&lt;/a&gt;, &lt;a href=&#34;https://mintjams.maximosantoro.com/&#34;&gt;webpage&lt;/a&gt;.&lt;/p&gt; --&gt;
+        &lt;p&gt;&lt;a href=&#34;https://www.redbubble.com/people/viieja/explore?page=1&amp;sortOrder=recent&#34;&gt;viiejasm&lt;/a&gt; - deprecated graphic design project: &lt;a href=&#34;https://www.redbubble.com/people/viieja/explore?page=1&amp;sortOrder=recent&#34;&gt;redbubble portfolio&lt;/a&gt;, &lt;a href=&#34;https://www.instagram.com/explore/tags/viiejasm/&#34;&gt;instagram&lt;/a&gt;.&lt;/p&gt;
+        &lt;p&gt;&lt;a href=&#34;https://casiojapi.github.io/loficondition/&#34;&gt;loficondition&lt;/a&gt; - lofi music platform: &lt;a href=&#34;https://www.instagram.com/loficondition/&#34;&gt;instagram&lt;/a&gt;, &lt;a href=&#34;https://casiojapi.github.io/loficondition/&#34;&gt;webpage&lt;/a&gt;, &lt;a href=&#34;https://linktr.ee/loficonditionn&#34;&gt;playlists&lt;/a&gt;.&lt;/p&gt; 
+        &lt;p&gt;&lt;a href=&#34;https://casiojapi.github.io/toby-fox-tribute/&#34;&gt;toby fox tribute&lt;/a&gt; - a tribute page for Toby Fox: &lt;a href=&#34;https://casiojapi.github.io/toby-fox-tribute/&#34;&gt;webpage&lt;/a&gt;.&lt;/p&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div id=&#34;contenter&#34;&gt;
+    &lt;h2 id=&#34;projects&#34;&gt;social&lt;/h2&gt;
+    &lt;div id=&#34;subcontent&#34;&gt;
+        &lt;p&gt;twitter: &lt;a href=&#34;https://twitter.com/casiojapi&#34;&gt;@casiojapi&lt;/a&gt;&lt;/p&gt; 
+        &lt;p&gt;github: &lt;a href=&#34;https://github.com/casiojapi&#34;&gt;@casiojapi&lt;/a&gt;&lt;/p&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+</content>
+    </item>
+    
+    <item>
+      <title>donate</title>
+      <link>https://casiojapi.xyz/donate/</link>
+      <pubDate>Mon, 06 Feb 2023 10:35:40 -0300</pubDate>
+      
+      <guid>https://casiojapi.xyz/donate/</guid>
+      <description>donate me </description>
+      <content>&lt;h1 id=&#34;donate-me&#34;&gt;donate me&lt;/h1&gt;
+</content>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,50 @@
+baseURL = 'https://casiojapi.xyz/'
+languageCode = 'en-us'
+title = 'casiojapi website'
+
+theme = 'terminal'
+
+  [params.twitter]
+  # set Twitter handles for Twitter cards
+  # see https://developer.twitter.com/en/docs/tweets/optimize-with-cards/guides/getting-started#card-and-content-attribution
+  # do not include @
+  creator = "casiojapi"
+  site = ""
+
+[languages]
+  [languages.en.params]
+    languageName = "English"
+    title = "casioweb"
+    subtitle = "BECOME UNGOVERNABLE"
+    owner = "casiojapi"
+    keywords = ""
+    copyright = ""
+    menuMore = "show more"
+    readMore = "read more"
+    readOtherPosts = "read other posts"
+    newerPosts = "newer posts"
+    olderPosts = "older posts"
+    missingContentMessage = "page not found..."
+    missingBackButtonLabel = "back to home page"
+
+    [languages.en.params.logo]
+      logoText = "casiojapi"
+      logoHomeLink = "/"
+
+    [languages.en.params.menu]
+      [[languages.en.menu.main]]
+        identifier = "monero"
+        name = "monero"
+        url = "/monero"
+      [[languages.en.menu.main]]
+        identifier = "projects"
+        name = "projects"
+        url = "/projects"
+      [[languages.en.menu.main]]
+        identifier = "posts"
+        name = "posts"
+        url = "/posts"
+      [[languages.en.menu.main]]
+        identifier = "cv"
+        name = "cv"
+        url = "https://casiojapi.xyz/cv"
