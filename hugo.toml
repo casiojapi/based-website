@@ -2,7 +2,7 @@ baseURL = 'https://casiojapi.xyz/'
 languageCode = 'en-us'
 title = 'casiojapi website'
 
-theme = 'terminal'
+theme = 'terminork-hugo'
 
   [params.twitter]
   # set Twitter handles for Twitter cards
