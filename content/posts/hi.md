@@ -1,7 +1,7 @@
 +++
 title = "hi"
 date = "2023-09-24T17:03:01-03:00"
-author = "casio"
+author = "king terry"
 authorTwitter = "casiojapi" #do not include @
 cover = ""
 tags = ["personal"]

@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://casiojapi.xyz/</loc>
+    <lastmod>2023-09-24T17:58:44-03:00</lastmod>
+  </url><url>
+    <loc>https://casiojapi.xyz/posts/hey/</loc>
+    <lastmod>2023-09-24T17:58:44-03:00</lastmod>
+  </url><url>
+    <loc>https://casiojapi.xyz/tags/personal/</loc>
+    <lastmod>2023-09-24T17:58:44-03:00</lastmod>
+  </url><url>
+    <loc>https://casiojapi.xyz/posts/</loc>
+    <lastmod>2023-09-24T17:58:44-03:00</lastmod>
+  </url><url>
+    <loc>https://casiojapi.xyz/tags/</loc>
+    <lastmod>2023-09-24T17:58:44-03:00</lastmod>
+  </url><url>
+    <loc>https://casiojapi.xyz/posts/hi/</loc>
+    <lastmod>2023-09-24T17:03:01-03:00</lastmod>
+  </url><url>
     <loc>https://casiojapi.xyz/foto/</loc>
     <lastmod>2023-03-27T00:00:00+00:00</lastmod>
   </url><url>
@@ -14,10 +32,6 @@
     <loc>https://casiojapi.xyz/donate/</loc>
     <lastmod>2023-02-06T10:35:40-03:00</lastmod>
   </url><url>
-    <loc>https://casiojapi.xyz/</loc>
-  </url><url>
     <loc>https://casiojapi.xyz/categories/</loc>
-  </url><url>
-    <loc>https://casiojapi.xyz/tags/</loc>
   </url>
 </urlset>

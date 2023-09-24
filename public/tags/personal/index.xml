@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on casiojapi website</title>
-    <link>https://casiojapi.xyz/posts/</link>
-    <description>Recent content in Posts on casiojapi website</description>
+    <title>personal on casiojapi website</title>
+    <link>https://casiojapi.xyz/tags/personal/</link>
+    <description>Recent content in personal on casiojapi website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 24 Sep 2023 17:58:44 -0300</lastBuildDate><atom:link href="https://casiojapi.xyz/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 24 Sep 2023 17:58:44 -0300</lastBuildDate><atom:link href="https://casiojapi.xyz/tags/personal/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>hey</title>
       <link>https://casiojapi.xyz/posts/hey/</link>

@@ -15,4 +15,4 @@ cd "$DEST_DIR"
 # add, commit, push website update
 git add .
 git commit -m "$(date +%s) webmaster's update"
-git push -u origin master
+git push -u origin main 
