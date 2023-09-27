@@ -11,7 +11,6 @@ showFullContent = false
 readingTime = false
 hideComments = false
 draft = true
-color = ""
 +++
 
 La idea de la sección “blog” de esta página es escribir un poco sobre herramientas y conceptos que podemos usar para poner en práctica la filosofía del gordo monedita. Los gordos odiamos a los bancos, a los super estados que controlan todo lo que haces con tu platita, el [KYC](https://en.wikipedia.org/wiki/Know_your_customer) innecesario, las medidas [AML](https://en.wikipedia.org/wiki/Money_laundering#Combating), la [WEF](https://en.wikipedia.org/wiki/World_Economic_Forum) y el [*“you will own nothing and be happy”*](https://knowyourmeme.com/memes/youll-own-nothing-and-be-happy).  
