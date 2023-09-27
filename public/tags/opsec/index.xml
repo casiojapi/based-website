@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on casiojapi website</title>
-    <link>https://casiojapi.xyz/posts/</link>
-    <description>Recent content in Posts on casiojapi website</description>
+    <title>opsec on casiojapi website</title>
+    <link>https://casiojapi.xyz/tags/opsec/</link>
+    <description>Recent content in opsec on casiojapi website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 25 Sep 2023 15:57:57 -0300</lastBuildDate><atom:link href="https://casiojapi.xyz/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 25 Sep 2023 15:57:57 -0300</lastBuildDate><atom:link href="https://casiojapi.xyz/tags/opsec/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Security 101</title>
       <link>https://casiojapi.xyz/posts/security-101/</link>
@@ -51,65 +51,6 @@ passwords and 2fa passwords should be at least 16 chars long use multiple words 
 &lt;h2 id=&#34;file-encryption&#34;&gt;file encryption&lt;/h2&gt;
 &lt;p&gt;use gpg or veracrypt&lt;/p&gt;
 &lt;h2 id=&#34;heading&#34;&gt;&lt;/h2&gt;
-</content>
-    </item>
-    
-    <item>
-      <title>resume</title>
-      <link>https://casiojapi.xyz/posts/cv/</link>
-      <pubDate>Sun, 24 Sep 2023 19:40:56 -0300</pubDate>
-      
-      <guid>https://casiojapi.xyz/posts/cv/</guid>
-      <description>relevant experience Rootstock core developer | nov 2022 - now job and company&amp;rsquo;s general description
-info 1 about my job info 2 about my job info 3 about my job info 4 about my job side-projects webmaster at dh | nov 2022 - now job&amp;rsquo;s general description
-info 1 about my job info 2 about my job info 3 about my job info 4 about my job education hmmm hmmmm</description>
-      <content>&lt;h2 id=&#34;relevant-experience&#34;&gt;relevant experience&lt;/h2&gt;
-&lt;h3 id=&#34;rootstock-core-developer--nov-2022---now&#34;&gt;Rootstock core developer | nov 2022 - now&lt;/h3&gt;
-&lt;p&gt;job and company&amp;rsquo;s general description&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;info 1 about my job&lt;/li&gt;
-&lt;li&gt;info 2 about my job&lt;/li&gt;
-&lt;li&gt;info 3 about my job&lt;/li&gt;
-&lt;li&gt;info 4 about my job&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;side-projects&#34;&gt;side-projects&lt;/h2&gt;
-&lt;h3 id=&#34;webmaster-at-dh--nov-2022---now&#34;&gt;webmaster at dh | nov 2022 - now&lt;/h3&gt;
-&lt;p&gt;job&amp;rsquo;s general description&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;info 1 about my job&lt;/li&gt;
-&lt;li&gt;info 2 about my job&lt;/li&gt;
-&lt;li&gt;info 3 about my job&lt;/li&gt;
-&lt;li&gt;info 4 about my job&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;education&#34;&gt;education&lt;/h2&gt;
-&lt;h3 id=&#34;hmmm&#34;&gt;hmmm&lt;/h3&gt;
-&lt;p&gt;hmmmm&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;hmm?&lt;/li&gt;
-&lt;/ul&gt;
-</content>
-    </item>
-    
-    <item>
-      <title>hey</title>
-      <link>https://casiojapi.xyz/posts/hey/</link>
-      <pubDate>Sun, 24 Sep 2023 17:58:44 -0300</pubDate>
-      
-      <guid>https://casiojapi.xyz/posts/hey/</guid>
-      <description>my business plan is to do miracles. a ver si anda esto la concha del pato.</description>
-      <content>&lt;p&gt;my business plan is to do miracles. a ver si anda esto la concha del pato.&lt;/p&gt;
-</content>
-    </item>
-    
-    <item>
-      <title>hi</title>
-      <link>https://casiojapi.xyz/posts/hi/</link>
-      <pubDate>Sun, 24 Sep 2023 17:03:01 -0300</pubDate>
-      
-      <guid>https://casiojapi.xyz/posts/hi/</guid>
-      <description>hi I made a PC operating system. If not God’s official temple, ignored. If yes God’s official temple, gang busters success. VC doesn’t help. Just wait. I might be in CIA prision. God has to kill CIA and FBI.</description>
-      <content>&lt;h1 id=&#34;hi&#34;&gt;hi&lt;/h1&gt;
-&lt;p&gt;I made a PC operating system. If not God’s official temple, ignored. If yes God’s official temple, gang busters success. VC doesn’t help. Just wait. I might be in CIA prision. God has to kill CIA and FBI.&lt;/p&gt;
 </content>
     </item>
     
