@@ -1,19 +1,18 @@
 +++
-title = "Security 101"
+title = "security 101"
 date = "2023-09-25T15:57:57-03:00"
-author = ""
-authorTwitter = "" #do not include @
+author = "casio"
+authorTwitter = "casiojapi" #do not include @
 cover = ""
 tags = ["security", "opsec"]
 keywords = ["", ""]
-description = ""
+description = "some good practices for overall better cybernetic security"
 showFullContent = false
 readingTime = false
 hideComments = false
 color = "" #color from the theme settings
+draft = true
 +++
-
-some good practices for overall cybernetic security
 
 ## passwords and 2fa
 
